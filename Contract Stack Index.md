@@ -13,7 +13,7 @@ Its sole function is to declare and enforce contracts that prevent drift, preser
 All future systems, tools, and engines must conform to these contracts or be considered invalid.
 
 
-This document defines the recognized contract stacks within ONE.
+This document defines the recognized contract stacks within a governed AI system.
 Not all stacks are implemented as standalone nodes.
 Some are enforced implicitly through higher-order constraints.
 
