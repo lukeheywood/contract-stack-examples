@@ -1,24 +1,20 @@
 # Contract Stack Examples
 
-## 🧭 Why Governance Matters
+Glass-case examples of governance, contracts, and boundary enforcement patterns used within ONE.
 
-In complex AI systems, most failures don’t come from bad code.  
-They come from **drift** — when purpose, boundaries, and expectations slowly erode over time.
+## Purpose
+This repository contains concrete, inspectable examples of contract-based system governance.
 
-This repository treats **governance as the backbone of coherence**:
-formal contracts, invariants, and guardrails that keep systems aligned to their governing intent even under pressure.
+## Scope
+- Contract stack examples
+- Governance mappings
+- Non-agentic boundary patterns
 
-This repository contains **worked examples** of AI contract design.
+## Non-goals
+- No runtime systems
+- No speculative designs
 
-It is not an AI system.
-It is not a framework.
-It is not a product.
+**Status:** Active  
+**Last verified:** 2026-01-01
 
-It is a collection of artifacts that show how I design boundaries, constraints, and governance
-so AI systems remain coherent under consequence.
-
-Everything here is intentionally boring.
-If something looks impressive, it’s probably out of scope.
-
-The goal is simple:
-make intent explicit enough that failure becomes informative.
+Canonical hub: one-platform
